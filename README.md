@@ -1,2 +1,2 @@
 # mini-project
-my first project
+full stack development learning
