@@ -1,2 +1,2 @@
 # mini-project
-full stack development learning
+full stack development learner
